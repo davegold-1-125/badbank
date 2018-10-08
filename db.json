@@ -1,0 +1,27 @@
+{
+  "accounts": [
+    {
+      "name": "1",
+      "email": "1",
+      "balance": 20,
+      "password": "1",
+      "transactions": [
+        [
+          "Sun Oct 07 2018 21:25:10 GMT-0400 (Eastern Daylight Time)",
+          "Account created",
+          0
+        ],
+        [
+          "Sun Oct 07 2018 21:25:21 GMT-0400 (Eastern Daylight Time)",
+          "Deposit",
+          23
+        ],
+        [
+          "Sun Oct 07 2018 21:25:24 GMT-0400 (Eastern Daylight Time)",
+          "Withdrawal",
+          3
+        ]
+      ]
+    }
+  ]
+}
